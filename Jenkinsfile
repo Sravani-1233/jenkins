@@ -19,3 +19,5 @@ node {
 		   echo "Releasing the project...."
 		}
 }
+
+multi
